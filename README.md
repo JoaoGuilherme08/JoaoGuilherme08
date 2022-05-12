@@ -1,3 +1,6 @@
+<h1> Hi there! </h1>
+
+
 <div align="center">
   <a href="https://github.com/JoaoGuilherme08">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilherme08&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -18,3 +21,7 @@
  
   ![Snake animation](https://github.com/JoaoGuilherme08/JoaoGuilherme08/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+  <div>
+    <a href="https://github.com/iuricode/iuricode/raw/main/ilus-code.svg"></a>
+  </div>
