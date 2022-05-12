@@ -16,6 +16,8 @@
   <br>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-78507b208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/JoaoGuilherme08/JoaoGuilherme08/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/JoaoGuilherme08/JoaoGuilherme08/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=JoaoGuilherme08&repo=JoaoGuilherme08&theme=react)](https://github.com/JoaoGuilherme08/JoaoGuilherme08)
