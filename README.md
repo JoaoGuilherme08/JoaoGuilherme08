@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/JoaoGuilherme08">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilherme08&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuilherme08&layout=compact&langs_count=7&theme=react" />
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilherme08&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuilherme08&layout=compact&langs_count=7&theme=radical" />
 </div>
  <br>
 <div  align="center"> 
@@ -18,4 +18,3 @@
  
   ![Snake animation](https://github.com/JoaoGuilherme08/JoaoGuilherme08/blob/output/github-contribution-grid-snake.svg)
 </div>
-
