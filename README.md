@@ -42,7 +42,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-I'm 23 years old and I intend to improve myself as a software engineer. I love backend and infrastructure.
+I'm 24 years old and I intend to improve myself as a software engineer. I love backend and infrastructure.
 - 🔭 I am currently working as an independent software engineer.
 - 🌱 I was part of the development of Solix.
 
