@@ -49,7 +49,3 @@ I'm 24 years old and I intend to improve myself as a software engineer. I love b
 <p align="center"> <a href="https://solix.solinftec.com/"><img width="50%" src="https://github.com/JoaoGuilherme08/JoaoGuilherme08/blob/main/banner-maquina.png" alt="solix" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoaoGuilherme08&layout=compact&theme=algolia" alt="JoaoGuilherme08" /></a> </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
