@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoGuilherme08&label=Profile%20views&color=0e75b6&style=flat" alt="JoaoGuilherme08" /> </p>
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student+USP;Always+learning+new+things&center=true&width=500&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+USP;Always+learning+new+things&center=true&width=500&height=50"></a>
 
 <p><img align="right" src="https://raw.githubusercontent.com/JoaoGuilherme08/JoaoGuilherme08/main/icons/animation_500_kxa883sd.gif" alt="JoaoGuilherme08" /></p>
 
