@@ -120,10 +120,29 @@ passions:
 <!-- DIVISOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 🏆 **GitHub Trophies**
+## 🏆 **GitHub Summary**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoGuilherme08&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+<!-- PROFILE SUMMARY CARDS -->
+<a href="https://github.com/JoaoGuilherme08">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoGuilherme08&theme=tokyonight" alt="Profile Details"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/JoaoGuilherme08">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoGuilherme08&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoGuilherme08&theme=tokyonight" alt="Most Commit Language"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/JoaoGuilherme08">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoGuilherme08&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoGuilherme08&theme=tokyonight&utcOffset=-3" alt="Productive Time"/>
+</a>
+
 </div>
 
 <!-- DIVISOR -->
