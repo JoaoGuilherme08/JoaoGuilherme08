@@ -148,6 +148,57 @@ passions:
 <!-- DIVISOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+## 🔥 **Advanced Metrics** <sup><sub>*powered by GitHub Actions*</sub></sup>
+
+<div align="center">
+
+<!-- 📅 ISOMETRIC CONTRIBUTION CALENDAR - Calendário 3D -->
+<details>
+<summary><b>📅 3D Isometric Contribution Calendar</b></summary>
+<br/>
+<img src="https://raw.githubusercontent.com/JoaoGuilherme08/JoaoGuilherme08/main/metrics/isometric.svg" alt="Isometric Calendar"/>
+</details>
+
+<!-- 🏆 ACHIEVEMENTS - Conquistas estilo gaming -->
+<details open>
+<summary><b>🏆 Achievements</b></summary>
+<br/>
+<img src="https://raw.githubusercontent.com/JoaoGuilherme08/JoaoGuilherme08/main/metrics/achievements.svg" alt="Achievements"/>
+</details>
+
+<!-- 💻 LANGUAGES ANALYSIS - Análise profunda de linguagens -->
+<details>
+<summary><b>💻 Languages Deep Analysis</b></summary>
+<br/>
+<img src="https://raw.githubusercontent.com/JoaoGuilherme08/JoaoGuilherme08/main/metrics/languages.svg" alt="Languages Analysis"/>
+</details>
+
+<!-- 📝 RECENT CODE - Snippets de código recente -->
+<details>
+<summary><b>📝 Recent Code Snippets</b></summary>
+<br/>
+<img src="https://raw.githubusercontent.com/JoaoGuilherme08/JoaoGuilherme08/main/metrics/code.svg" alt="Recent Code"/>
+</details>
+
+<!-- 📈 CODING HABITS - Hábitos de programação -->
+<details>
+<summary><b>📈 Coding Habits & Activity</b></summary>
+<br/>
+<img src="https://raw.githubusercontent.com/JoaoGuilherme08/JoaoGuilherme08/main/metrics/header.svg" alt="Coding Habits"/>
+</details>
+
+<!-- ⭐ STARGAZERS - Evolução de stars -->
+<details>
+<summary><b>⭐ Stargazers Evolution</b></summary>
+<br/>
+<img src="https://raw.githubusercontent.com/JoaoGuilherme08/JoaoGuilherme08/main/metrics/stargazers.svg" alt="Stargazers"/>
+</details>
+
+</div>
+
+<!-- DIVISOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 ## 💼 **Experiência em Destaque**
 
 <div align="center">
