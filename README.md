@@ -1,51 +1,215 @@
-![Github Banner](banner.png)
+<div align="center">
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm João Cobo</h1>
-<h3 align="center">I'm an Software Enginner from Brazil</h3>
+<!-- HEADER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=João%20Cobo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Backend%20Specialist%20|%20USP&descAlignY=55&descAlign=50"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoGuilherme08&label=Profile%20views&color=0e75b6&style=flat" alt="JoaoGuilherme08" /> </p>
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%7C+System+Architecture;Building+scalable+distributed+systems;Passionate+about+clean+code+%26+performance;Always+learning%2C+always+evolving+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+USP;Always+learning+new+things&center=true&width=500&height=50"></a>
+<br/>
 
-<p><img align="right" src="https://raw.githubusercontent.com/JoaoGuilherme08/JoaoGuilherme08/main/icons/animation_500_kxa883sd.gif" alt="JoaoGuilherme08" /></p>
+<!-- BADGES ANIMADOS -->
+<img src="https://komarev.com/ghpvc/?username=JoaoGuilherme08&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile views"/>
+<a href="https://github.com/JoaoGuilherme08?tab=followers">
+  <img src="https://img.shields.io/github/followers/JoaoGuilherme08?label=Followers&style=for-the-badge&color=764ba2" alt="Followers"/>
+</a>
 
+</div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/joaoguilhermecobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
+<!-- DIVISOR ANIMADO -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Sobre Mim**
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/JoaoGuilherme08/JoaoGuilherme08/main/icons/animation_500_kxa883sd.gif"/>
+
+```yaml
+name: João Guilherme Cobo
+location: Brasil 🇧🇷
+education: Software Engineering @ USP
+current_role: Software Engineer
+age: 24
+
+focus_areas:
+  - Backend Development
+  - System Architecture
+  - Distributed Systems
+  - Cloud Infrastructure
+
+passions:
+  - Clean Code
+  - Performance Optimization
+  - Scalable Solutions
+  - Open Source
+```
+
+<br clear="right"/>
+
+<!-- DIVISOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Tech Stack**
+
+<div align="center">
+
+### 💻 **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,go,cs,kotlin&theme=dark" alt="Languages"/>
 </p>
 
-
-# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a> 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a> 
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a> 
-  <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/> </a> 
-  <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualcode" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> 
-   
+### 🚀 **Frameworks & Runtime**
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,flask&theme=dark" alt="Frameworks"/>
 </p>
 
+### ☁️ **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,ansible&theme=dark" alt="Cloud & DevOps"/>
+</p>
 
+### 🗄️ **Databases & Message Brokers**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,mysql,elasticsearch&theme=dark" alt="Databases"/>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+### 🛠️ **Tools & Others**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,prometheus,grafana,idea,vscode&theme=dark" alt="Tools"/>
+</p>
 
-I'm 24 years old and I intend to improve myself as a software engineer. I love backend and infrastructure.
-- 🔭 I am currently working as an independent software engineer.
-- 🌱 I was part of the development of Solix.
+</div>
 
-<p align="center"> <a href="https://solix.solinftec.com/"><img width="50%" src="https://github.com/JoaoGuilherme08/JoaoGuilherme08/blob/main/banner-maquina.png" alt="solix" /></a> </p>
+<!-- DIVISOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Analytics**
+
+<div align="center">
+  
+<a href="https://github.com/JoaoGuilherme08">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilherme08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuilherme08&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0D1117&title_color=667eea"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+<!-- STREAK STATS -->
+<a href="https://github.com/JoaoGuilherme08">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoGuilherme08&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea&border_radius=15" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- ACTIVITY GRAPH -->
+<a href="https://github.com/JoaoGuilherme08">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoGuilherme08&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true&area_color=667eea" alt="Contribution Graph"/>
+</a>
+
+</div>
+
+<!-- DIVISOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoGuilherme08&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+<!-- DIVISOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 💼 **Experiência em Destaque**
+
+<div align="center">
+
+### 🤖 Solix - Autonomous Agricultural Robots
+
+<a href="https://solix.solinftec.com/">
+  <img width="60%" src="https://github.com/JoaoGuilherme08/JoaoGuilherme08/blob/main/banner-maquina.png" alt="Solix - Robô Agrícola Autônomo" style="border-radius: 15px;"/>
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td width="50%">
+
+**🎯 Responsabilidades**
+- Desenvolvimento de sistemas distribuídos
+- Arquitetura de microsserviços
+- Integração com sistemas IoT
+- Otimização de performance
+
+</td>
+<td width="50%">
+
+**🛠️ Stack Utilizada**
+- Java/Spring Boot
+- Kubernetes & Docker
+- Apache Kafka
+- PostgreSQL & Redis
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- DIVISOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/joaoguilhermecobo" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:joao.cobo@usp.br" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/JoaoGuilherme08" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- SNAKE CONTRIBUTION -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoaoGuilherme08/JoaoGuilherme08/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+<br/>
+
+<!-- QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+
+<div align="center">
+  
+### 💜 *"Code is poetry written for machines to execute and humans to understand."*
+
+<br/>
+
+**⭐ Se você gostou do meu perfil, deixe uma estrela em algum repositório!**
+
+</div>
