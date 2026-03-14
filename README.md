@@ -148,46 +148,6 @@ passions:
 <!-- DIVISOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 💼 **Experiência em Destaque**
-
-<div align="center">
-
-### 🤖 Solix - Autonomous Agricultural Robots
-
-<a href="https://solix.solinftec.com/">
-  <img width="60%" src="https://github.com/JoaoGuilherme08/JoaoGuilherme08/blob/main/banner-maquina.png" alt="Solix - Robô Agrícola Autônomo" style="border-radius: 15px;"/>
-</a>
-
-<br/><br/>
-
-<table>
-<tr>
-<td width="50%">
-
-**🎯 Responsabilidades**
-- Desenvolvimento de sistemas distribuídos
-- Arquitetura de microsserviços
-- Integração com sistemas IoT
-- Otimização de performance
-
-</td>
-<td width="50%">
-
-**🛠️ Stack Utilizada**
-- Java/Spring Boot
-- Kubernetes & Docker
-- Apache Kafka
-- PostgreSQL & Redis
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- DIVISOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 ## 🌐 **Connect With Me**
 
 <div align="center">
@@ -206,10 +166,6 @@ passions:
 
 <br/>
 
-<!-- SNAKE CONTRIBUTION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoaoGuilherme08/JoaoGuilherme08/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
 
 <br/>
 
