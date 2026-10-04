@@ -1,7 +1,11 @@
 ### Olá, eu sou o João 👋
 
-Software Engineer com foco em backend, sistemas distribuídos e cloud. Engenharia de Software @ USP.
+Software Engineer focado em **sistemas distribuídos**: streaming em tempo real, data lakehouse e infraestrutura cloud-native. Engenharia de Software @ USP.
 
-**Stack:** Java · Python · Go · C# · Kotlin — Spring · .NET · FastAPI — Docker · Kubernetes · AWS · GCP · Terraform — PostgreSQL · MongoDB · Redis · Kafka
+- **Streaming:** Apache Flink · Kafka · Avro
+- **Lakehouse & query:** Iceberg · Trino · ClickHouse · Spark · S3
+- **Dados:** PostgreSQL · Oracle · Redis
+- **Orquestração & infra:** Kubernetes · Docker · Airflow · Terraform · AWS
+- **Linguagens:** Java · Python
 
 [LinkedIn](https://www.linkedin.com/in/joaoguilhermecobo) · [Email](mailto:joao.cobo@usp.br)
